@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Large binaries if not using LFS
+*.mp4
+*.mov
+*.largefile
+
+# Your drafts folder (optional)
+drafts/
