@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <title>Spring AI Logo</title>
+  <!-- Petals -->
+  <ellipse cx="24" cy="12" rx="5" ry="8" fill="#FFB0B8" transform="rotate(0 24 24)"/>
+  <ellipse cx="24" cy="12" rx="5" ry="8" fill="#FFBE82" transform="rotate(60 24 24)"/>
+  <ellipse cx="24" cy="12" rx="5" ry="8" fill="#B4DCA0" transform="rotate(120 24 24)"/>
+  <ellipse cx="24" cy="12" rx="5" ry="8" fill="#82BEF0" transform="rotate(180 24 24)"/>
+  <ellipse cx="24" cy="12" rx="5" ry="8" fill="#C8A0F0" transform="rotate(240 24 24)"/>
+  <ellipse cx="24" cy="12" rx="5" ry="8" fill="#FFC882" transform="rotate(300 24 24)"/>
+  <!-- Center -->
+  <circle cx="24" cy="24" r="6" fill="#F5C850"/>
+</svg>

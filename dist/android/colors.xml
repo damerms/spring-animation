@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <!-- Spring AI Brand Colors -->
+    <color name="ic_launcher_background">#FCF9F7</color>
+    <color name="spring_accent">#D25A6E</color>
+    <color name="spring_accent_2">#50AA78</color>
+    <color name="spring_gold">#F5C850</color>
+    <color name="spring_text">#1C1814</color>
+    <color name="spring_text_mid">#8C827A</color>
+    <color name="spring_text_light">#B4A59C</color>
+    <color name="spring_bg">#FCF9F7</color>
+    <color name="spring_card">#FFFFFF</color>
+    <color name="spring_border">#E4DDD8</color>
+    <color name="spring_input_bg">#F8F6F4</color>
+    <color name="spring_bubble_user">#FFE4EB</color>
+    <color name="spring_bubble_ai">#F2FFF6</color>
+    <!-- Petal palette -->
+    <color name="petal_1">#FFB0B8</color>
+    <color name="petal_2">#FFBE82</color>
+    <color name="petal_3">#B4DCA0</color>
+    <color name="petal_4">#82BEF0</color>
+    <color name="petal_5">#C8A0F0</color>
+    <color name="petal_6">#FFC882</color>
+</resources>
