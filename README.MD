@@ -1,7 +1,7 @@
 # Spring Animation
 
 ## Purpose
-This repository contains a high-performance spring animation created with Claude. It includes the source logic and platform-optimized assets for iOS, Android, and Web integration.
+Building a celebrate Spring animation assisted by Claude. It includes the source logic and platform-optimized assets for iOS, Android, and Web integration.
 
 ## Project Structure
 * `/assets`: Raw source files and project files.
@@ -17,4 +17,4 @@ This repository contains a high-performance spring animation created with Claude
 
 ## Physics Properties
 * **Tension:** * **Friction:** * **Velocity:** ## Collaboration
-This project was developed with the assistance of Claude.yes
+This project was developed with the assistance of Claude.
