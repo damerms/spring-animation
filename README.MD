@@ -15,6 +15,3 @@ Building a celebrate Spring animation assisted by Claude. It includes the source
 | **Android** | JSON / XML | Ready |
 | **Web** | GIF / WebM | Ready |
 
-## Physics Properties
-* **Tension:** * **Friction:** * **Velocity:** ## Collaboration
-This project was developed with the assistance of Claude.
