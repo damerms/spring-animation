@@ -1,7 +1,7 @@
 # Spring Animation
 
 ## Purpose
-Building an animation to celebrate Spring with the assistance of Claude. It includes the source logic and platform-optimized assets for iOS, Android, and Web integration.
+Building an animation to celebrate Spring with the help of Claude. It includes the source logic and platform-optimized assets for iOS, Android, and Web integration.
 
 ## Project Structure
 * `/assets`: Raw source files and project files.
